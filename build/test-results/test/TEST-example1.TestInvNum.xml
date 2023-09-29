@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="example1.TestInvNum" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-09-29T00:26:59" hostname="LAPTOP-VIE9F9R5" time="0.188">
+  <properties/>
+  <testcase name="verifyAdditionPar()" classname="example1.TestInvNum" time="0.066"/>
+  <testcase name="[1] 89, 98" classname="example1.TestInvNum" time="0.031"/>
+  <testcase name="[2] 79, 97" classname="example1.TestInvNum" time="0.002"/>
+  <testcase name="[3] 56, 65" classname="example1.TestInvNum" time="0.002"/>
+  <testcase name="[4] 90, 09" classname="example1.TestInvNum" time="0.001"/>
+  <testcase name="[5] 80, 08" classname="example1.TestInvNum" time="0.002"/>
+  <testcase name="[6] 7, 7" classname="example1.TestInvNum" time="0.001"/>
+  <testcase name="[7] 5678, 8765" classname="example1.TestInvNum" time="0.001"/>
+  <testcase name="[8] -200, Dato Incorrecto" classname="example1.TestInvNum" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
